@@ -1,0 +1,11 @@
+.DS_Store
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Local agent / IDE metadata
+.claude/
+.wolf/
