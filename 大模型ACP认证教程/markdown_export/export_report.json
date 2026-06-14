@@ -1,0 +1,148 @@
+{
+  "source_root": "/Users/admin/openSource/aliyun_acp_learning/大模型ACP认证教程",
+  "output_root": "/Users/admin/openSource/aliyun_acp_learning/大模型ACP认证教程/markdown_export",
+  "notebook_count": 23,
+  "markdown_count": 23,
+  "files": [
+    {
+      "source": "C1_课程准备/1_1_配置AI开发环境.ipynb",
+      "target": "C1_课程准备/1_1_配置AI开发环境.md",
+      "unresolved_references": [],
+      "broken_references": []
+    },
+    {
+      "source": "C2_构造问答系统/2_0_项目背景.ipynb",
+      "target": "C2_构造问答系统/2_0_项目背景.md",
+      "unresolved_references": [],
+      "broken_references": []
+    },
+    {
+      "source": "C2_构造问答系统/2_1_用大模型构建新人答疑机器人.ipynb",
+      "target": "C2_构造问答系统/2_1_用大模型构建新人答疑机器人.md",
+      "unresolved_references": [],
+      "broken_references": []
+    },
+    {
+      "source": "C2_构造问答系统/2_2_扩展答疑机器人的知识范围.ipynb",
+      "target": "C2_构造问答系统/2_2_扩展答疑机器人的知识范围.md",
+      "unresolved_references": [],
+      "broken_references": []
+    },
+    {
+      "source": "C2_构造问答系统/2_3_优化提示词改善答疑机器人回答质量.ipynb",
+      "target": "C2_构造问答系统/2_3_优化提示词改善答疑机器人回答质量.md",
+      "unresolved_references": [],
+      "broken_references": []
+    },
+    {
+      "source": "C2_构造问答系统/2_4_自动化评测答疑机器人的表现.ipynb",
+      "target": "C2_构造问答系统/2_4_自动化评测答疑机器人的表现.md",
+      "unresolved_references": [],
+      "broken_references": []
+    },
+    {
+      "source": "C2_构造问答系统/2_5_优化RAG应用提升问答准确度.ipynb",
+      "target": "C2_构造问答系统/2_5_优化RAG应用提升问答准确度.md",
+      "unresolved_references": [],
+      "broken_references": []
+    },
+    {
+      "source": "C3_构建Agent系统/3_0_从回答问题到解决问题.ipynb",
+      "target": "C3_构建Agent系统/3_0_从回答问题到解决问题.md",
+      "unresolved_references": [],
+      "broken_references": []
+    },
+    {
+      "source": "C3_构建Agent系统/3_1_Agent基础与工具调用.ipynb",
+      "target": "C3_构建Agent系统/3_1_Agent基础与工具调用.md",
+      "unresolved_references": [],
+      "broken_references": []
+    },
+    {
+      "source": "C3_构建Agent系统/3_2_让Agent学会规划与执行.ipynb",
+      "target": "C3_构建Agent系统/3_2_让Agent学会规划与执行.md",
+      "unresolved_references": [],
+      "broken_references": []
+    },
+    {
+      "source": "C3_构建Agent系统/3_3_用多Agent实现团队协作.ipynb",
+      "target": "C3_构建Agent系统/3_3_用多Agent实现团队协作.md",
+      "unresolved_references": [],
+      "broken_references": []
+    },
+    {
+      "source": "C3_构建Agent系统/3_4_用Memory让Agent积累经验.ipynb",
+      "target": "C3_构建Agent系统/3_4_用Memory让Agent积累经验.md",
+      "unresolved_references": [],
+      "broken_references": []
+    },
+    {
+      "source": "C3_构建Agent系统/3_5_用Skill将能力固化为可复用流程.ipynb",
+      "target": "C3_构建Agent系统/3_5_用Skill将能力固化为可复用流程.md",
+      "unresolved_references": [],
+      "broken_references": []
+    },
+    {
+      "source": "C3_构建Agent系统/3_6_用评测驱动Agent开发.ipynb",
+      "target": "C3_构建Agent系统/3_6_用评测驱动Agent开发.md",
+      "unresolved_references": [],
+      "broken_references": []
+    },
+    {
+      "source": "C3_构建Agent系统/3_7_Qwen_Code实践.ipynb",
+      "target": "C3_构建Agent系统/3_7_Qwen_Code实践.md",
+      "unresolved_references": [],
+      "broken_references": []
+    },
+    {
+      "source": "C4_交付上线/4_0_走向生产环境.ipynb",
+      "target": "C4_交付上线/4_0_走向生产环境.md",
+      "unresolved_references": [],
+      "broken_references": []
+    },
+    {
+      "source": "C4_交付上线/4_1_用蒸馏让小模型掌握专业能力.ipynb",
+      "target": "C4_交付上线/4_1_用蒸馏让小模型掌握专业能力.md",
+      "unresolved_references": [],
+      "broken_references": []
+    },
+    {
+      "source": "C4_交付上线/4_2_部署模型.ipynb",
+      "target": "C4_交付上线/4_2_部署模型.md",
+      "unresolved_references": [],
+      "broken_references": []
+    },
+    {
+      "source": "C4_交付上线/4_3_大模型应用生产实践.ipynb",
+      "target": "C4_交付上线/4_3_大模型应用生产实践.md",
+      "unresolved_references": [],
+      "broken_references": []
+    },
+    {
+      "source": "C4_交付上线/4_4_大模型应用安全合规.ipynb",
+      "target": "C4_交付上线/4_4_大模型应用安全合规.md",
+      "unresolved_references": [],
+      "broken_references": []
+    },
+    {
+      "source": "C5_总结与展望/5_1_培养品味用AI为业务提效.ipynb",
+      "target": "C5_总结与展望/5_1_培养品味用AI为业务提效.md",
+      "unresolved_references": [],
+      "broken_references": []
+    },
+    {
+      "source": "C5_总结与展望/5_2_总结与展望.ipynb",
+      "target": "C5_总结与展望/5_2_总结与展望.md",
+      "unresolved_references": [],
+      "broken_references": []
+    },
+    {
+      "source": "course_core/docs/Python数据分析实战.ipynb",
+      "target": "course_core/docs/Python数据分析实战.md",
+      "unresolved_references": [],
+      "broken_references": []
+    }
+  ],
+  "unresolved_reference_count": 0,
+  "broken_reference_count": 0
+}
