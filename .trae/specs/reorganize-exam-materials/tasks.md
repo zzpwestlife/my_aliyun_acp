@@ -1,0 +1,12 @@
+# Tasks
+- [x] Task 1: 确定核心文件并创建归档目录
+  - [x] SubTask 1.1: 在 `exam_materials` 下创建 `archive` 目录。
+  - [x] SubTask 1.2: 确定各章节（C2, C3, C4）保留的核心源文件路径（大纲、仅题目、带答案的解析）。
+- [x] Task 2: 将核心 Markdown 文件转换为 PDF 并规范命名
+  - [x] SubTask 2.1: 准备 Markdown 转 PDF 的脚本工具（如果缺少依赖，可安装如 `markdown-pdf`，或利用其他方案实现转换）。
+  - [x] SubTask 2.2: 将 C2, C3, C4 各自的 3 份核心 Markdown 文件转换为对应的 PDF，并直接存放在对应章节（如 `C2/`）的根目录下，命名分别为 `[章节编号]_考试大纲.pdf`、`[章节编号]_模拟题题目.pdf`、`[章节编号]_模拟题答案解析.pdf`。
+- [x] Task 3: 归档多余文件并清理子目录
+  - [x] SubTask 3.1: 将各章节下的 `outline`, `questions`, `answers`, `extra` 目录中的所有遗留 Markdown 文件全部移动到 `archive` 目录中。
+  - [x] SubTask 3.2: 删除已清空的子目录，使 `C2`, `C3`, `C4` 目录下仅剩下生成的 3 份 PDF 文件。
+- [x] Task 4: 最终核查
+  - [x] SubTask 4.1: 遍历 `C2`, `C3`, `C4` 目录，确认每个目录内有且仅有 3 个规定命名的 PDF 文件。
